@@ -27,7 +27,7 @@ Check out our live demo [here](https://nustrive.vercel.app/).
 
 ## Note
 
-NUSTrive is an ongoing project, and we are actively working on different modules to make it more robust and user-friendly. Your feedback and suggestions are valuable to us as we strive to create an optimal learning environment for NUST entry test preparation.
+NUSTrive is an ongoing project, and we are actively working on different modules to make it more robust and user-friendly. Your feedback and suggestions are valuable as we strive to create an optimal learning environment for NUST entry test preparation.
 
 ## Get Involved
 
